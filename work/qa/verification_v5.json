@@ -1,0 +1,201 @@
+{
+  "file": "output/IFISH_v5_83s_1080p60.mp4",
+  "duration_seconds": 83.0,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": "60/1",
+  "frames": 4980,
+  "size_bytes": 73277248,
+  "decode_errors": "",
+  "music_correlation": 0.9998102231626863,
+  "largest_frame_differences": [
+    {
+      "time": 34.8,
+      "mean_luma_difference": 11.8364
+    },
+    {
+      "time": 34.7833,
+      "mean_luma_difference": 11.6802
+    },
+    {
+      "time": 34.8167,
+      "mean_luma_difference": 11.6679
+    },
+    {
+      "time": 34.7667,
+      "mean_luma_difference": 10.8967
+    },
+    {
+      "time": 34.8333,
+      "mean_luma_difference": 10.6458
+    },
+    {
+      "time": 34.75,
+      "mean_luma_difference": 10.5875
+    },
+    {
+      "time": 34.85,
+      "mean_luma_difference": 10.0388
+    },
+    {
+      "time": 34.7333,
+      "mean_luma_difference": 9.9961
+    },
+    {
+      "time": 34.7167,
+      "mean_luma_difference": 9.4426
+    },
+    {
+      "time": 34.7,
+      "mean_luma_difference": 8.8429
+    },
+    {
+      "time": 34.8667,
+      "mean_luma_difference": 8.6042
+    },
+    {
+      "time": 34.6833,
+      "mean_luma_difference": 8.1857
+    },
+    {
+      "time": 45.2333,
+      "mean_luma_difference": 7.965
+    },
+    {
+      "time": 45.2167,
+      "mean_luma_difference": 7.9645
+    },
+    {
+      "time": 45.2,
+      "mean_luma_difference": 7.9275
+    },
+    {
+      "time": 45.1833,
+      "mean_luma_difference": 7.9054
+    }
+  ],
+  "chapter_joins": [
+    {
+      "time": 8.6112,
+      "mean_luma_difference_at_center": 1.4846,
+      "max_in_half_second": 2.328
+    },
+    {
+      "time": 13.8325,
+      "mean_luma_difference_at_center": 1.8248,
+      "max_in_half_second": 3.1794
+    },
+    {
+      "time": 24.275100000000002,
+      "mean_luma_difference_at_center": 1.0313,
+      "max_in_half_second": 1.2937
+    },
+    {
+      "time": 34.7177,
+      "mean_luma_difference_at_center": 9.9961,
+      "max_in_half_second": 11.8364
+    },
+    {
+      "time": 45.1603,
+      "mean_luma_difference_at_center": 7.9054,
+      "max_in_half_second": 7.965
+    },
+    {
+      "time": 53.3652,
+      "mean_luma_difference_at_center": 2.0723,
+      "max_in_half_second": 4.9055
+    },
+    {
+      "time": 60.0783,
+      "mean_luma_difference_at_center": 1.0283,
+      "max_in_half_second": 1.0869
+    },
+    {
+      "time": 70.52090000000001,
+      "mean_luma_difference_at_center": 0.2523,
+      "max_in_half_second": 1.8832
+    },
+    {
+      "time": 76.4881,
+      "mean_luma_difference_at_center": 2.3114,
+      "max_in_half_second": 2.3114
+    }
+  ],
+  "isolated_temporal_spikes_for_review": [
+    {
+      "time": 76.35,
+      "difference": 0.9679,
+      "ratio": 14.01
+    },
+    {
+      "time": 76.3667,
+      "difference": 1.2271,
+      "ratio": 18.02
+    },
+    {
+      "time": 76.3833,
+      "difference": 1.4441,
+      "ratio": 21.2
+    },
+    {
+      "time": 76.4,
+      "difference": 1.6168,
+      "ratio": 24.15
+    },
+    {
+      "time": 76.4167,
+      "difference": 1.8101,
+      "ratio": 27.04
+    },
+    {
+      "time": 76.4333,
+      "difference": 1.9596,
+      "ratio": 29.8
+    },
+    {
+      "time": 76.45,
+      "difference": 2.0175,
+      "ratio": 30.36
+    },
+    {
+      "time": 76.4667,
+      "difference": 2.0774,
+      "ratio": 31.26
+    },
+    {
+      "time": 76.4833,
+      "difference": 2.2537,
+      "ratio": 32.39
+    },
+    {
+      "time": 76.5,
+      "difference": 2.3114,
+      "ratio": 30.03
+    },
+    {
+      "time": 76.5167,
+      "difference": 2.0888,
+      "ratio": 24.76
+    },
+    {
+      "time": 76.5333,
+      "difference": 1.703,
+      "ratio": 18.61
+    },
+    {
+      "time": 76.55,
+      "difference": 1.3462,
+      "ratio": 13.46
+    },
+    {
+      "time": 76.5667,
+      "difference": 0.9927,
+      "ratio": 9.51
+    }
+  ],
+  "functional_demo_seconds": 39.533,
+  "color_section_seconds": 6.713,
+  "new_builtin_generated_action_assets": 3
+}

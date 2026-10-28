@@ -1,0 +1,29 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "external_provider": null,
+  "reference": "../assets/01_deep_blue.png",
+  "reference_role": "Exact character identity, costume, materials and lighting reference",
+  "transparent_background": true,
+  "assets": [
+    {
+      "file": "../assets/04_blue_presenting.png",
+      "prompt": "Use case: identity-preserve. Asset: transparent cutout for a character animation in a premium minimalist IFISH launch film. Image 1 is the exact character and material reference. Create the same blue chibi whale girl in a new useful pose: a three-quarter view facing viewer's right, eyes alert and warmly confident, one little gloved hand raised with open palm presenting something on her right, other hand at her waist. Preserve identical cobalt blue long hair, whale ear fins, tail, navy and ivory maid dress, blank cream forehead placard, whale emblem on apron, satin physical collectible material, realistic fine fabric, soft product studio lighting and full body. Small friendly smile, no exaggerated anime effects. The raised hand must clearly extend away from silhouette. Nothing held in hand, no props, no words, no graphic background, no ground plane; genuinely transparent background. Same calm lighting and restrained saturation. Generous transparent margin; full body entirely visible. This is an original new pose of the same small figure, not a photo panel.",
+      "generation_id": "exec-4f4d4301-0a97-4252-8985-0852e091791a.png"
+    },
+    {
+      "file": "../assets/05_blue_rice.png",
+      "prompt": "Use case: identity-preserve. Animation cutout for the IFISH launch film. Image 1 is the exact identity, costume and soft studio lighting reference. Same tiny blue-haired whale girl collectible, FULL BODY facing almost front, blue whale fins and tail, navy maid dress, white apron with whale emblem, blank cream forehead placard. New pose: she is delighted about a small plain ivory ceramic bowl full of distinct cooked white rice grains held carefully at her belly in her left hand, a short little wooden rice spoon with a small bite of white rice in her raised right hand very near her open smiling mouth. Eyes are joyfully closed, subtle happy blush, sweet satisfied expression. Keep normal two hands, five fingers, satin product materials, fine fabric texture, same blue hair and proportional scale. No chopsticks. No writing, no printed words, no rice outside bowl or spoon, no sparkles. Genuine transparent background, no floor or shadow, generous transparent margin. Calm high-end softbox rendering matching Image 1, not glossy plastic and not a busy illustration. Pose should read immediately even small.",
+      "generation_id": "exec-b538883e-0134-4c0a-81a1-6548ea978388.png"
+    },
+    {
+      "file": "../assets/06_blue_coding.png",
+      "prompt": "Use case: identity-preserve. Original same IFISH blue whale chibi character from Image 1, exactly same face, blue long hair, fin ears, whale tail, satin navy maid dress with ivory apron and whale emblem, cream blank forehead placard, same subdued soft product lighting. New action asset for a film about her coding ability: she sits cross-legged on the floor behind a thin SMALL plain silver open laptop, both tiny hands naturally touching keyboard, looking focused and happy toward laptop screen, hair falling around her shoulders with the blue whale tail visible to right. Three-quarter facing viewer's left so we can see her face, side of keyboard, and the plain outside of the open screen. Full figure and all hair entirely visible. Full body should be the main object, laptop does not hide face. No brand, no words, no screen text, no table, no room, no ground plane, no cast ground shadow. Genuine transparent alpha background, generous margin. Preserve same satin collectible material with natural cloth details, not glossy plastic. One calm readable pose, two hands, one laptop only.",
+      "generation_id": "exec-87f3d1c8-a85c-4d26-a505-130aaf0a1b9c.png"
+    }
+  ],
+  "reused_assets": {
+    "01_deep_blue.png": "v4 built-in generated master",
+    "02_dusk_sand.png": "v4 built-in generated brown variant",
+    "03_cloud_porcelain.png": "v4 built-in generated white variant"
+  }
+}

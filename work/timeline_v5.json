@@ -1,0 +1,65 @@
+{
+  "version": 5,
+  "duration": 83,
+  "fps": 60,
+  "frames": 4980,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "music": "Original user reference audio, continuous first 83 seconds",
+  "transition_duration": 1.12,
+  "graphics": "2D paths, C2 easing, animated text and live diagram/code output, local 2D character deformation",
+  "chapters": [
+    {
+      "start": 0,
+      "end": 8.6112,
+      "name": "流动的想法 · 二维开场"
+    },
+    {
+      "start": 8.6112,
+      "end": 13.8325,
+      "name": "不止可爱"
+    },
+    {
+      "start": 13.8325,
+      "end": 24.275100000000002,
+      "name": "推理与解题"
+    },
+    {
+      "start": 24.275100000000002,
+      "end": 34.7177,
+      "name": "写作与改写"
+    },
+    {
+      "start": 34.7177,
+      "end": 45.1603,
+      "name": "编程与运行"
+    },
+    {
+      "start": 45.1603,
+      "end": 53.3652,
+      "name": "中英翻译"
+    },
+    {
+      "start": 53.3652,
+      "end": 60.0783,
+      "name": "三种配色"
+    },
+    {
+      "start": 60.0783,
+      "end": 70.52090000000001,
+      "name": "只吃大米饭"
+    },
+    {
+      "start": 70.52090000000001,
+      "end": 76.4881,
+      "name": "功能收束"
+    },
+    {
+      "start": 76.4881,
+      "end": 83.0,
+      "name": "IFISH 品牌标志"
+    }
+  ]
+}
